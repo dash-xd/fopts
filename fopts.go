@@ -1,4 +1,3 @@
-
 package fopts
 
 type Option func(interface{})
